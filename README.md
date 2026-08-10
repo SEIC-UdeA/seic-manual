@@ -38,8 +38,7 @@ El objetivo de este manual es garantizar que todos los integrantes compartan una
 │   ├── 10-gestion-de-recursos.md
 │   ├── 11-seguridad.md
 │   ├── 12-estandares-tecnologicos.md
-│   ├── 13-infraestructura-y-despliegue.md
-│   └── anexos.md
+│   └── 13-infraestructura-y-despliegue.md
 └── templates/
 ```
 

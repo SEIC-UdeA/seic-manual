@@ -91,63 +91,99 @@ Cada proyecto deberá tener la siguiente estructura de carpetas:
 ```text
 Proyecto/
 │
-├── 01-Administrativo/
-├── 02-Reuniones/
-├── 03-Documentación/
-├── 04-Presentaciones/
-├── 05-Evidencias/
-├── 06-Entregables/
-├── 07-Recursos/
-├── 08-Integrantes/
+├── 01-Administración/
+├── 02-Proyectos/
+├── 03-Integrantes/
+├── 04-Recursos/
+├── 05-Reuniones/
+├── 06-Eventos/
+├── 07-Comunicación/
+├── 08-Documentación/
 └── 09-Plantillas/
 ```
 
 Contenido recomendado:
 
-### 01-Administrativo
+### 01-Administración
 
-- Ficha del Proyecto.
-- Cronogramas.
-- Documentos administrativos.
+Contiene información administrativa general del semillero.
 
-### 02-Reuniones
+Puede incluir:
+
+- Documentos oficiales.
+- Comunicaciones institucionales.
+- Documentos relacionados con la Universidad.
+- Información administrativa general.
+
+### 02-Proyectos
+
+Contiene todos los proyectos del SEIC-UdeA.
+
+Cada proyecto tendrá una carpeta independiente y utilizará exactamente la misma estructura interna.
+
+### 03-Integrantes
+
+Contiene información relacionada con la gestión de los integrantes.
+
+Puede incluir:
+
+- Base Maestra de Integrantes.
+- Documentos administrativos relacionados con integrantes.
+- Información necesaria para la gestión de miembros.
+
+### 04-Recursos
+
+Contiene los registros generales relacionados con los recursos del semillero.
+
+Incluye principalmente:
+
+- Catálogo de Recursos.
+
+### 05-Reuniones
+
+Contiene la documentación de las reuniones generales del semillero.
+
+Puede incluir:
 
 - Actas.
-- Grabaciones.
-- Material de apoyo.
+- Material preparado para reuniones.
+- Documentos relevantes de reuniones.
 
-### 03-Documentación
+Las reuniones específicas de un proyecto deberán almacenarse dentro de la carpeta correspondiente al proyecto.
 
-- Documentación funcional.
-- Diagramas.
-- Informes.
+### 06-Eventos
 
-### 04-Presentaciones
+Contiene documentación relacionada con eventos en los que participe u organice el SEIC-UdeA.
 
-- Presentaciones utilizadas durante el proyecto.
+Puede incluir:
 
-### 05-Evidencias
+- Campamentos.
+- Actividades académicas.
+- Conferencias.
+- Eventos universitarios.
 
-- Fotografías.
-- Capturas de pantalla.
-- Videos.
-- Evidencias de avances.
+### 07-Comunicación
 
-### 06-Entregables
+Contiene material relacionado con la comunicación del semillero.
 
-- Versiones finales.
-- Informes.
-- Productos generados.
+Puede incluir:
 
-### 07-Recursos
+- Material para redes sociales.
+- Diseños.
+- Imágenes.
+- Publicaciones.
+- Material audiovisual.
+- Recursos de comunicación.
 
-- Material de consulta.
-- Bibliografía.
-- Recursos compartidos.
+La gestión de redes sociales estará a cargo de un responsable principal, quien podrá contar con colaboradores voluntarios.
 
-### 08-Integrantes
+### 08-Documentación
 
-- Hoja de integrantes del proyecto.
+Contiene documentación institucional general del SEIC-UdeA.
+
+Aquí se almacenará documentación complementaria relacionada con el funcionamiento y organización del semillero.
+
+El manual institucional se mantiene principalmente en GitHub.
 
 ### 09-Plantillas
 
