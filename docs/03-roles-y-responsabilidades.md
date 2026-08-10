@@ -112,7 +112,20 @@ Los roles que requieran ser asignados a estudiantes serán ocupados mediante un 
 
 ---
 
-## 3.4 Procedimientos
+## 3.4 Estructura actual
+
+| Rol                          | Responsable                      |
+| ---------------------------- | -------------------------------- |
+| Docente Asesora              | Katerine Márceles Villalba       |
+| Docente Coordinador          | Fredy Orlando Gutiérrez Portilla |
+| Estudiante Coordinador       | José Luis Cruz                   |
+| Co-coordinador               | —                                |
+| Administrador de Plataformas | Sebastián Aristizábal            |
+| Líderes de Proyecto          | Según cada proyecto              |
+
+---
+
+## 3.5 Procedimientos
 
 Cuando sea necesario crear un nuevo proyecto:
 
@@ -123,7 +136,7 @@ Cuando sea necesario crear un nuevo proyecto:
 
 ---
 
-## 3.5 Responsabilidades generales
+## 3.6 Responsabilidades generales
 
 Todos los integrantes deberán:
 
@@ -134,7 +147,7 @@ Todos los integrantes deberán:
 
 ---
 
-## 3.6 Documentos relacionados
+## 3.7 Documentos relacionados
 
 - Gestión de Integrantes.
 - Gestión de Proyectos.
