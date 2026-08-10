@@ -24,7 +24,6 @@ El objetivo de este manual es garantizar que todos los integrantes compartan una
 .
 ├── README.md
 ├── CHANGELOG.md
-├── LICENSE
 ├── docs/
 │   ├── index.md
 │   ├── 01-introduccion.md
@@ -41,8 +40,7 @@ El objetivo de este manual es garantizar que todos los integrantes compartan una
 │   ├── 12-estandares-tecnologicos.md
 │   ├── 13-infraestructura-y-despliegue.md
 │   └── anexos.md
-├── templates/
-└── assets/
+└── templates/
 ```
 
 ---
@@ -95,9 +93,3 @@ Ejemplo:
 Las contribuciones a este repositorio deberán seguir el proceso definido en el archivo `CONTRIBUTING.md`.
 
 Toda modificación deberá estar justificada, revisada y aprobada antes de incorporarse a la versión oficial del manual.
-
----
-
-# Licencia
-
-La licencia del repositorio se encuentra definida en el archivo `LICENSE`.
